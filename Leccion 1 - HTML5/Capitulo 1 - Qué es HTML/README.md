@@ -8,8 +8,10 @@ Si vamos rapidito a wikipedia (aunque siempre recomiendo buscar en más fuentes 
 
 Y ahora tal vez te preguntes: ¿Y por qué HTML no es un lenguaje de programación?
 
-# ¿Por qué no es un lenguaje de programación HTML?
+# ¿Por qué HTML no es un lenguaje de programación?
 
 Debemos entender que los lenguajes de programación son aquellos que permiten la realización de operaciones aritméticas y el manejo de diferentes tipos de variables según las condiciones que se cumplan. Con esto dicho, HTML simplemente utiliza etiquetas para su organización y distribución del contenido de la página web.
 
 Aprenderemos más adelante en este tutorial que las operaciones lógicas y aritméticas son realizadas a través de JavaScript (Lección 3).
+
+En el siguiente capítulo de esta lección veremos qué son las etiquetas.
