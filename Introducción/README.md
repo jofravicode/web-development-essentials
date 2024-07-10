@@ -1,6 +1,10 @@
 # Introducción al tutorial
 
-Este tutorial está dividido en 3 lección y cada lección se divide en capitulos para tratar los asuntos fundamentales de cada lenguaje de la programación web.
+Este tutorial está dividido en 3 lección y cada lección se divide en capitulos para tratar los asuntos fundamentales de cada lenguaje de la programación web. Las lecciónes son las siguientes:
+
+* Lección 1 - HTML5
+* Lección 2 - CSS3
+* Lección 3 - JavaScript
 
 Antes de comenzar a cada lección, necesitaremos algunas herramientas básicas para comenzar nuestro trayecto de programación web.
 
