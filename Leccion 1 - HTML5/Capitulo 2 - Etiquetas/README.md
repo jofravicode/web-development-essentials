@@ -6,7 +6,7 @@ Las etiquetas en HTML son los elementos que se utilizan para dar formato y organ
 
 # ¿Cómo se escriben las etiquetas?
 
-Las etiquetas comienzan con el caracter "<", llevan el nombre del elemento que va a contener y terminan con el caracter ">" y para el cierre de dicha etiqueta se realiza de la siguiente manera "</NombreEtiqueta>". Por ejemplo, un título puede aparecer así en el documento de la página:
+Las etiquetas comienzan con el caracter "<", llevan el nombre del elemento que va a contener y terminan con el caracter ">" y para el cierre de dicha etiqueta se realiza de la siguiente manera "```</NombreEtiqueta>```". Por ejemplo, un título puede aparecer así en el documento de la página:
 * ```<h1> Un lindo título </h1>```
 
 # ¿Cuáles son las principales etiquetas que se utilizan en un documento HTML?
@@ -46,6 +46,6 @@ Continuando con esta sección, un documento HTML5 se organiza así:
 </body>
 </html>
 ```
-Cabe señalar que esto es un ejemlo básico de cómo se organiza una página web, pero en el tutorial seguiremos viendo como se utilizan otras etiquetas básicas. La magia principal de todo el contenido que vemos en un navegador ocurre dentro de la etiqueta <body> </body>.
+Cabe señalar que esto es un ejemlo básico de cómo se organiza una página web, pero en el tutorial seguiremos viendo como se utilizan otras etiquetas básicas. La magia principal de todo el contenido que vemos en un navegador ocurre dentro de la etiqueta ```<body> </body>```.
 
 En el siguiente capitulo estaremos viendo qué son los atributos en las etiquetas y para qué sirven.
