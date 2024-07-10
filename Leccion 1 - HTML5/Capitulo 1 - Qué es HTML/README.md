@@ -14,4 +14,8 @@ Debemos entender que los lenguajes de programación son aquellos que permiten la
 
 Aprenderemos más adelante en este tutorial que las operaciones lógicas y aritméticas son realizadas a través de JavaScript (Lección 3).
 
+# ¿Qué es HTML5?
+
+Si bien acabamos de aprender que HTML es un lenguaje de marcado, HTML5 es la versión que se utiliza actualmente para la creación de sitios web debido a su amplitud de etiquetas que son compatibles con las tecnologías actuales.
+
 En el siguiente capítulo de esta lección veremos qué son las etiquetas.
