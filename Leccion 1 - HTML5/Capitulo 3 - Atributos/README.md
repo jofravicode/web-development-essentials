@@ -28,4 +28,6 @@ Otro ejemplo que podemos mencionar es en el caso de cuándo queremos mostrar una
 
 Cabe señalar que si estamos dando una dirección de la imagen dentro de nuestro proyecto, el mismo debe darse bien la ruta en dónde está guardado, sino se mostrará con error. Esta aclaración aplica también para otras páginas dentro de nuestro propio sitio web o archivos que queramos permitir que se descarguen o compartan.
 
-Puedo extenderme más en el tema de atributos, pero no es el propósito de este tutorial, ya que solo deseo abarcar los fundamentos básicos de la programación web para que comiencen a enteder como funciona.
+Puedo extenderme más en el tema de atributos, pero no es el propósito de este tutorial, ya que solo deseo abarcar los fundamentos básicos de la programación web para que comiencen a enteder como funciona. Ahora bien, si quieren una lista detallada, les comparto el siguiente enlace de la documentación de Mozilla Developers: https://developer.mozilla.org/es/docs/Web/HTML/Attributes
+
+En la siguiente lección sobre CSS, veremos como utilizaremos bastante las etiquetas y sus atributos para poder darle diseño a nuestra página web.
